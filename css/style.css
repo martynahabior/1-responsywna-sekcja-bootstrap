@@ -26,7 +26,8 @@ hr {
 
 .icon {
     text-align: center;
-    width: 30%;
+    width: 80px;
+    height: 80px;
     font-size: 3em;
     color: #ffb366;
     margin-bottom: 20px;
